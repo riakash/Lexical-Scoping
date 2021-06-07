@@ -1,4 +1,4 @@
-## making CacheMatrix
+### making CacheMatrix
 
 
   
@@ -19,7 +19,7 @@
       
   
   
-  ## cache Solving
+  ### cache Solving
   
   cacheSolve <- function(x, ...) {
   i <- x$getinverse()
